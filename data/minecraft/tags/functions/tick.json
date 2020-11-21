@@ -1,0 +1,9 @@
+{
+ "values": [
+ "a_mobs:loop",
+ "a_mobs:weapon/bow",
+ "a_mobs:weapon/teleport",
+ "a_mobs:weapon/blazerod",
+ "a_mobs:weapon/firecharge"
+ ]
+}
